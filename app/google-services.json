@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "536770997876",
+    "firebase_url": "https://ssip-d72f7.firebaseio.com",
+    "project_id": "ssip-d72f7",
+    "storage_bucket": "ssip-d72f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536770997876:android:fd249215002eee2795ab21",
+        "android_client_info": {
+          "package_name": "com.example.varshajalsanchayan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536770997876-n2ng4817t5dije9ou33keeo00uimgma3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.varshajalsanchayan",
+            "certificate_hash": "14db4d26b84f7e8e9a00c6da4b671e8f678329ff"
+          }
+        },
+        {
+          "client_id": "536770997876-4t9ks2nqop2j5d4mvpg1pe3dg7tucf8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ORL61PtA934hxXqoTzgkyXaDSi-dMfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536770997876-4t9ks2nqop2j5d4mvpg1pe3dg7tucf8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
